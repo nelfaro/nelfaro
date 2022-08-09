@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+## Skills:
+![MySQL]("https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010")
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
