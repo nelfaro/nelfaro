@@ -63,6 +63,6 @@ Here are some ideas to get you started:
   <a href="mailto:nelfaro@gmail.com?Subject=Estoy%20interesad@%20en%20contactarte%20!!!">nelfaro@gmail.com</a>
   </p>
    <p align="left">
-  - ⚡ O descargar mi  
+  - ⚡ Puedes ver o descargar mi  
   <a href="https://docs.google.com/document/d/1h_SSt9EvOaH6fPofdgEM_xiRQ509DerUijggvEjUN5o/edit?usp=sharing">"CV desde aqui".</a>
   </p>
