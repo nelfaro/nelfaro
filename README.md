@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👯 Trabaje en colaboracion en un proyecto de análisis comercial para una empresa de e-commerce con perspectivas de expansión en el territorio brasilero. [Lab. Grupal Olist - Consultora DeCeLeNe](https://github.com/cecilia2988/TP_Grupal_Olist)
 
-<h3 align="left">Para contactarme:</h3>
+<h3 align="left">💬 Para contactarme:</h3>
 <p align="left">
 <a href="https://twitter.com/@nelfaro_work" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nelfaro_work" height="30" width="40" /></a>
@@ -61,4 +61,8 @@ Here are some ideas to get you started:
   <p align="left">
   - 📫 Tambien puedes contactarme por emali: 
   <a href="mailto:nelfaro@gmail.com?Subject=Estoy%20interesad@%20en%20contactarte%20!!!">nelfaro@gmail.com</a>
+  </p>
+   <p align="left">
+  - ⚡ O descargar mi  
+  <a href="https://docs.google.com/document/d/1h_SSt9EvOaH6fPofdgEM_xiRQ509DerUijggvEjUN5o/edit?usp=sharing">"CV desde aqui".</a>
   </p>
